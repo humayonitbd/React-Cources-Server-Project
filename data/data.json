@@ -1,0 +1,219 @@
+[
+    {
+        "id":1,
+        "name":"JavaScript",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "JavaScript",
+        "price": 5000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"Welcome to the MDN beginner's JavaScript course! In this article we will look at JavaScript from a high level, answering questions such as 'What is it?' and 'What can you do with it?', and making sure you are comfortable with JavaScript's purpose.JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.",
+
+        "images":"https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+        "learn":
+         [
+            "What is the javascript? Right idea about it",
+            "Understanding the fundamentals of JavaScript",
+            "Details about where to use the script and how to use it",
+            "Lots of ideas on how to become a JavaScript developer",
+            "Ideas on how to learn complete JavaScript"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Monir Hossen",
+            "detalis": "I am creative Professional JavaScript developer",
+            "thanks": "thanks you see your frist class!!"
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    },
+    {
+        "id":2,
+        "name":"React",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "React",
+        "price": 7000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.One of the main benefits of using React JS is its potential to reuse components. It saves time for developers as they don't have to write various codes for the same features. Furthermore, if any changes are made in any particular part, it will not affect other parts of the application.",
+
+        "images":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+        "learn":
+         [
+            "What is the react? Right idea about it",
+            "Understanding the fundamentals of react",
+            "Details about where to use the react and how to use it",
+            "Lots of ideas on how to become a react developer",
+            "Ideas on how to learn complete react"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Humayon Forid",
+            "detalis": "I am creative Professional React developer",
+            "thanks": "thanks you see your frist class!!"
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    },
+    {
+        "id":3,
+        "name":"Html",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "Html",
+        "price": 4000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"Hypertext Markup Language, or HTML, is a programming language used to describe the structure of web pages. HTML makes it possible to create static pages with text, headings, tables, lists, images, links, and so on.A web page is a document which is commonly written in HTML and translated by a web browser. A web page can be identified by entering an URL. A Web page can be of the static or dynamic type. With the help of HTML only, we can create static web pages.Hence, HTML is a markup language which is used for creating attractive web pages with the help of styling, and which looks in a nice format on a web browser. An HTML document is made of many HTML tags and each HTML tag contains different content.",
+
+        "images":"https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+        "learn":
+         [
+            "What is the html? Right idea about it",
+            "Understanding the fundamentals of html",
+            "Details about where to use the html and how to use it",
+            "Lots of ideas on how to become a html developer",
+            "Ideas on how to learn complete html"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Ajim shikdar",
+            "detalis": "I am creative Professional Html Designer",
+            "thanks": "thanks you see your frist class!!"
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    },
+    {
+        "id":4,
+        "name":"Css",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "Css",
+        "price": 3000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"What is CSS explain Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathMLor XHTML. CSS describes how elements should be rendered on screen, on paper in speech, or on other media. CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.HTML Vs. CSS. HTML is a markup language used to create static web pages and web applications. CSS is a style sheet language responsible for the presentation of documents written in a markup language",
+
+        "images":"https://tuhoclaptrinh.edu.vn/upload/post/16/02/49/ngon-ngu-css-la-gi-635813.jpg",
+        "learn":
+         [
+            "What is the CSS? Right idea about it",
+            "Understanding the fundamentals of CSS",
+            "Details about where to use the script and how to use it",
+            "Lots of ideas on how to become a CSS",
+            "Ideas on how to learn complete CSS"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Tarek Hossen",
+            "detalis": "I am creative Professional Css designer",
+            "thanks": "thanks you see your frist class!!"
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    },
+    {
+        "id":5,
+        "name":"Bootstrap",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "Bootstrap",
+        "price": 5000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.As a framework, Bootstrap includes the basics for responsive web development, so developers only need to insert the code into a pre-defined grid system. The Bootstrap framework is built on Hypertext Markup Language (HTML), cascading style sheets (CSS) and JavaScript. Web developers using Bootstrap can build websites much faster without spending time worrying about basic commands and functions.Bootstrap makes responsive web design a reality. It makes it possible for a web page or app to detect the visitor's screen size and orientation and automatically adapt the display accordingly. The mobile-first approach assumes smartphones, tablets and task-specific mobile apps are employees' primary tools for getting work done. Bootstrap addresses the requirements of those technologies in design and includes UI components, layouts, JavaScript tools and the implementation framework. The software is available precompiled or as source code.",
+
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zrRm7tJXXYyaIFO_Sznw54uwg3k2Fv8NUg&usqp=CAU",
+        "learn":
+         [
+            "What is the Bootstrap? Right idea about it",
+            "Understanding the fundamentals of Bootstrap",
+            "Details about where to use the script and how to use it",
+            "Lots of ideas on how to become a Bootstrap",
+            "Ideas on how to learn complete Bootstrap"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Khairul Ahamed",
+            "detalis": "I am creative Professional Bootstrap designer",
+            "thanks": "thanks you see your frist class!!"
+
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    },
+    {
+        "id":6,
+        "name":"Php",
+        "title":"Details about this course are given below",
+        "parsent": "100% full courses",
+        "category": "Php",
+        "price": 5000,
+        "ourcourses": "Our courses are one of the best courses in Bangladesh. By enrolling in our course, you can buy different course packs and learn different languages. We have special opportunities for you in this course.You can enroll in this course to build skills on any subject. Our course is one of the best in Bangladesh. By doing this course, you will acquire skills in any subject in a way that will brighten your future career.If you work hard from the beginning to the end of our course and if you can achieve the subject you want to achieve in school, there are various opportunities for you from our course and if you can acquire your skills, your future life is bright and for any job. You don't have to sit down.And each of our courses is done as if there is a separate teacher appointment and each of these professional developer designers will take your class and in this class you will do everything very well professionally.So without any kind of tension, without any kind of bias, we are doing it with confidence, you can get admission and 100 per cent from the beginning to the end, we will try to give you as much as you can take and also we have job placement opportunities for you, if you do well, each of us Each of the different sectors of the cell will have our test.If you clear each exam there is special chance for you so we are making sure you can get admission and also read us from beginning to end thanks good luck",
+        "Details":"PHP is an acronym for 'PHP: Hypertext Preprocessor'.PHP is a widely-used, open source scripting language, PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with embedded code that does something (in this case, output 'Hi, I'm a PHP script!'' The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you to jump into and out ofPHP mode.What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours.",
+
+        "images":"https://reliqus.com/wp-content/uploads/2021/09/PHP-Development-Company.jpg",
+        "learn":
+         [
+            "What is the Php? Right idea about it",
+            "Understanding the fundamentals of Php",
+            "Details about where to use the Php and how to use it",
+            "Lots of ideas on how to become a Php developer",
+            "Ideas on how to learn complete Php"
+        ],
+        "author":{
+            "img":"https://wizcounsel.s3.amazonaws.com/avatars/professionalprofile/7181/profile7.jpg.256x256_q85_crop.jpg",
+            "name": "Anarul haque",
+            "detalis": "I am creative Professional Php developer",
+            "thanks": "thanks you see your frist class!!"
+
+
+        },
+        "others":[
+            "Those who aim to become great programmers",
+            "Those who want to work abroad as a big programmer",
+            "Those who want to establish themselves as programmers",
+            "People who understand coding or love to code",
+            "Those who want to build a freelancing career"
+        ]
+
+    }
+]
