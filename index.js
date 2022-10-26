@@ -20,7 +20,6 @@ app.get('/data', (req, res)=>{
 
 app.get('/data/:id',(req, res)=>{
     const id = parseInt(req.params.id);
-    // console.log(req.params.id)
     const dataId = data.find(dt =>dt.id === id);
     res.send(dataId)
 })
